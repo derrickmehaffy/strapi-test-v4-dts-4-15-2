@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_test_test_compos",
+  "info": {
+    "displayName": "testCompo",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "blahs": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::blah.blah"
+    }
+  }
+}
